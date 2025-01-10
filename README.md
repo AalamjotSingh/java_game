@@ -85,6 +85,4 @@ Welcome to the **Maze Adventure Game**! This console-based game offers an engagi
 - A Java IDE or terminal for running the program.
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/maze-adventure-game.git
+1. Clone the repository
